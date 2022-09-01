@@ -6,7 +6,7 @@ Usuários não administradores podem ter acesso de leitura, criação e alteraç
 Somente usuários Administradores podem excluir um cadastro.</br>
 Os dados são fictícios e gerados com o Faker.</br>
 
-###### Para ver esta API funcionando na internet acesse: Em Breve
+###### Para ver esta API funcionando na internet acesse: Em Breve(mudando o provedor)
 
 ## Este projeto foi feito com:
 
