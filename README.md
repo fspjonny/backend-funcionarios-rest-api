@@ -24,10 +24,12 @@ Os dados são fictícios e gerados com o Faker.</br>
 * Crie um Super Usuário e depois de migrar, crie um usuário comum
 * Rode as migrações.
 * Configure seu .env(exemplo em .env_config)
+* Popule a tabela com dados fictícios(populate_table)
 
 git clone https://github.com/fspjonny/funcionarios_rest_api.git<br>
 cd funcionarios_rest_api<br>
 python -m venv venv<br>
 pip install -r requirements.txt<br>
 python manage.py migrate<br>
+python manage.py populate_table<br>
 python manage.py runserver<br>
