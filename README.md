@@ -1,5 +1,5 @@
 # API Cadastro de Funcionários em Django Rest Framework
-Uma API simples em **Django Rest Framewor** para um cadastro de Funcionários.</br>
+Uma API simples em **Django Rest Framework** para um cadastro de Funcionários.</br>
 A idéia é fornecer o acesso da API aos usuários cadastrados, protegendo os dados sensíveis</br>
 de acessos indevidos e pessoas não autorizadas, utilizando o sistema de autenticação via token com JWT.</br>
 Usuários não administradores podem ter acesso de leitura, criação e alteração de dados.</br>
